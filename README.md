@@ -1,1 +1,1 @@
-this is instruction sets of project 
+this is instruction sets ofthe project 
